@@ -59,7 +59,8 @@ I used the Networkwalks Hash Calculator to process the files and obtain their co
 The complete hash was then used as the input for the password-cracking stage.
 
 Evidence
- https://github.com/adwak07-afk/Cybersecurity-Labs/blob/main/WK-3%20PM-3/Hash%20Calculator.png
+ ![Uploading Hash Calculator.png…]()
+
 
 💻 Part 2 — Attempting John the Ripper / Johnny
 I initially decided to try John the Ripper/Johnny before moving to the Networkwalks web-based Password Cracker.
