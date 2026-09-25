@@ -57,8 +57,9 @@ The first stage was to obtain the password hash from each protected PDF.
 The protected PDF files were provided as part of the Networkwalks internship exercise.
 I used the Networkwalks Hash Calculator to process the files and obtain their corresponding PDF hashes, which began with $pdf$.
 The complete hash was then used as the input for the password-cracking stage.
+
 Evidence
- 
+ ![Hash Calculator](Hash Calculator.png)
 
 💻 Part 2 — Attempting John the Ripper / Johnny
 I initially decided to try John the Ripper/Johnny before moving to the Networkwalks web-based Password Cracker.
@@ -80,7 +81,7 @@ This was an important point in the practical because it showed me that having a 
  
 
 
-✅ Part 5 — Password Recovery
+✅ Part 4 — Password Recovery
 Using the larger wordlist, I successfully recovered the passwords for all three protected PDF files.
 PDF	Result
 PDF 1	✅ Password recovered
