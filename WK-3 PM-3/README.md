@@ -71,6 +71,8 @@ Eventually, the repeated launches became difficult to control, so I had to shut 
 When I later tried the hash-text workflow again, starting the attack caused another Johnny instance to open.
 Rather than continue with a configuration I was no longer confident in, I decided to switch to the Networkwalks-provided tools.
 Evidence
+<img width="1919" height="875" alt="jonny" src="https://github.com/user-attachments/assets/c4865642-c2e8-4a48-b1c7-f4268ae87a01" />
+
  
 
 🌐 Part 3 — Using the Networkwalks Password Cracker
@@ -79,6 +81,10 @@ My first attempt used the smaller dictionary available through the Networkwalks 
 The dictionary contained approximately 100 common words.
 The passwords for the protected PDFs were not recovered using this initial dictionary.
 This was an important point in the practical because it showed me that having a password-cracking tool is not enough on its own. The quality and size of the wordlist can have a major effect on the outcome.
+
+Evidence
+<img width="947" height="943" alt="Password Cracker" src="https://github.com/user-attachments/assets/f53e992c-29fd-481b-b49e-bc5593f5cdb3" />
+
  
 
 
@@ -88,7 +94,15 @@ PDF	Result
 PDF 1	✅ Password recovered
 PDF 2	✅ Password recovered
 PDF 3	✅ Password recovered
+
 Evidence
+
+<img width="745" height="910" alt="PDF Password 1" src="https://github.com/user-attachments/assets/3ec3e021-22c0-4a27-8917-ab7ba071f62a" />
+<img width="1087" height="915" alt="PDF Password 2" src="https://github.com/user-attachments/assets/c60300a2-e3fd-43dd-93ff-7ceed6c1bd3c" />
+<img width="1012" height="920" alt="PDF Password 3" src="https://github.com/user-attachments/assets/0566d45a-747a-450d-90f5-bbe84235ccca" />
+
+
+
  
 
  
