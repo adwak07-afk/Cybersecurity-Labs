@@ -59,7 +59,8 @@ I used the Networkwalks Hash Calculator to process the files and obtain their co
 The complete hash was then used as the input for the password-cracking stage.
 
 Evidence
- ![Uploading Hash Calculator.png…]()
+ <img width="938" height="835" alt="Hash Calculator" src="https://github.com/user-attachments/assets/dab4d58a-1d05-476d-aea1-414270bcaea1" />
+
 
 
 💻 Part 2 — Attempting John the Ripper / Johnny
